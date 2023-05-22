@@ -1,0 +1,33 @@
+infix dictionary using slave1860_aux.dat {
+   year 1-2
+   datanum 3
+   serial 4-8
+   slavenum 9-11
+   reel 12-15
+   pageseq 16
+   pageno 17-20
+   line 21-23
+   str place 24-67 
+   str slavh1ln 68-119 
+   str slavh1fn 120-150
+   str slavh2ln 151-191 
+   str slavh2fn 192-231 
+   str slavh3ln 232-272 
+   str slavh3fn 273-312 
+   str slavh4ln 313-350 
+   str slavh4fn 351-368 
+   str slavh5ln 369-406 
+   str slavh5fn 407-414 
+   str slavh6ln 415-452 
+   str slavh6fn 453-460 
+   str slavh7ln 461-497 
+   str slavh7fn 498 
+   str slavh8ln 499-535 
+   str slavh8fn 536 
+   str slavname 537-560 
+   str hcomment 561-666 
+   str comment 667-751 
+   str ocomment 752-887 
+   str scomment 888-955 
+  str icom 956-1028 
+}

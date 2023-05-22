@@ -1,0 +1,88 @@
+Bibliography
+Southern Farms Study, 1860
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 7419. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Alexander, J. Trent; Condon, Sean; Digman, Jason Carl; Hacker, J. David,
+"A Public Use Microdata Sample of the 1860 Census of Slave Inhabitants."
+Historical Methods. Win 2003, 36, (1), 21 - 26. DOI:
+10.1080/01615440309601211
+
+2. Field, Elizabeth B., "Free and Slave Labor in the Antebellum South:
+Perfect Substitutes or Different Inputs?." Review of Economics and
+Statistics. Nov 1988, 70, (4), 654 - 659.
+Full text: http://www.jstor.org/stable/1935829
+
+3. Field, Elizabeth B., "The Relative Efficiency of Slavery Revisited: A
+Translog Production Function Approach." American Economic Review. Jun 1988,
+78, (3), 543 - 549.
+Full text: http://www.jstor.org/stable/1935829
+
+4. Fogel, Robert W.; Engerman, Stanley L., Time on the Cross: The Economics
+of American Negro Slavery. Boston: Little, Brown, 1974.
+Full text: http://www.jstor.org/stable/1935829
+
+5. Fogel, Robert William; Engerman, Stanley L., Time on the Cross: Evidence
+and Methods, A Supplement. Boston: Little, Brown, 1974.
+Full text: http://www.jstor.org/stable/1935829
+
+6. Foust, James D., The Yeoman Farmer and Westward Expansion of U.S. Cotton
+Production. New York: Arno Press, 1975.
+Full text: http://www.jstor.org/stable/1935829
+
+7. Grabowski, Richard; Pasurka, Carl, "The Relative Technical Efficiency of
+Slave and Non-Slave Farms in Southern Agriculture: 1860." Carbondale, IL:
+Southern Illinois University at Carbondale, 1986..
+Full text: http://www.jstor.org/stable/1935829
+
+8. Grabowski, Richard; Pasurka, Carl, "The relative technical efficiency of
+Northern and Southern U.S. farms in 1860." Southern Economic Journal. Jan
+1988, 53, (4), 598 - 614. DOI: 10.2307/1059004
+Full text: http://www.jstor.org/stable/1935829
+
+9. Grabowski, Richard; Pasurka, Carl, "The relative technical efficiency of
+slave and non-slave farms in Southern agriculture." Eastern Economic
+Journal. Jul 1989, 15, (3), 245 - 258.
+Full text: http://www.jstor.org/stable/1935829
+
+10. Olmstead, Alan L.; Rhode, Paul W., "Productivity Growth and the
+Regional Dynamics of Antebellum Southern Development." NBER Working Paper
+No.16494. Cambridge, MA: National Bureau of Economic Research, Oct 2010.
+Full text PDF: http://www.nber.org/papers/w16494.pdf
+
+11. Olmstead, Alan L.; Rhode, Paul W., "Productivity growth and the
+regional dynamics of antebellum Southern development." In Rhode, Paul W.;
+Rosenbloom, Joshua L.; Weiman, David F., Economic Evolution and Revolution
+in Historical Time. 180 - 213, Stanford, CA: Stanford University
+Press,2011.
+Full text PDF: http://www.nber.org/papers/w16494.pdf
+
+12. Olmstead, Alan L.; Rhode, Paul W., "Were Antebellum cotton plantations
+factories in the field?." In Collins, William J.; Margo, Robert A.,
+Enterprising America: Businesses, Banks, and Credit Markets in Historical
+Perspective. 245 - 276, Chicago, IL: University of Chicago Press,2015.
+Full text PDF: http://www.nber.org/papers/w16494.pdf
+
+13. Parker, William N., The Structure of the Cotton Economy of the
+Antebellum South. Washington, DC: Agricultural History Society, 1970.
+Full text PDF: http://www.nber.org/papers/w16494.pdf
+
+14. Rosenthal, Caitlin Clare, "From Memory to Mastery: Accounting for
+Control in America, 1750-1880." Dissertation, Harvard University, 2012.
+Full text PDF: http://www.nber.org/papers/w16494.pdf
+
+15. Wright, Gavin, "The Economics of Cotton in the Antebellum South."
+Dissertation, Yale University, 1969.
+Full text PDF: http://www.nber.org/papers/w16494.pdf
+
+16. Wright, Gavin, The Political Economy of the Cotton South: Households,
+Markets, and Wealth in the Nineteenth Century. New York: Norton, 1978.
+Full text PDF: http://www.nber.org/papers/w16494.pdf

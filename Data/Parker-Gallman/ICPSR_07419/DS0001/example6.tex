@@ -1,0 +1,39 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{3}{c}}
+\hline\hline
+            &\multicolumn{1}{c}{log\_revenue}&\multicolumn{1}{c}{log\_revenue}&\multicolumn{1}{c}{log\_revenue}\\
+\hline
+log\_age\_male\_slaves&      -0.157\sym{**} &       0.171\sym{***}&       0.129\sym{***}\\
+            &     (-2.41)         &      (6.21)         &      (3.20)         \\
+[1em]
+log\_age\_female\_slaves&      -0.228\sym{***}&      0.0966\sym{***}&      0.0591         \\
+            &     (-3.41)         &      (3.29)         &      (1.44)         \\
+[1em]
+log\_overseers&     -0.0145         &      0.0222         &     0.00697         \\
+            &     (-0.11)         &      (0.43)         &      (0.13)         \\
+[1em]
+log\_laborers&       0.135         &      0.0289         &     -0.0382         \\
+            &      (1.16)         &      (0.46)         &     (-0.43)         \\
+[1em]
+log\_farmvalue&      0.0269         &      0.0798\sym{***}&       0.140\sym{***}\\
+            &      (1.33)         &      (5.92)         &      (4.32)         \\
+[1em]
+log\_machinevalue&       0.232\sym{***}&      0.0792\sym{***}&      0.0537\sym{**} \\
+            &      (9.37)         &      (5.21)         &      (2.56)         \\
+[1em]
+log\_livestockvalue&       0.262\sym{***}&       0.211\sym{***}&       0.243\sym{***}\\
+            &      (8.36)         &     (11.26)         &      (8.21)         \\
+[1em]
+log\_improvedland&       0.846\sym{***}&       0.267\sym{***}&       0.249\sym{***}\\
+            &     (21.89)         &     (10.99)         &      (6.81)         \\
+[1em]
+\_cons      &       3.708\sym{***}&       6.684\sym{***}&       6.315\sym{***}\\
+            &     (21.65)         &     (54.01)         &     (22.19)         \\
+\hline
+\(N\)       &        5228         &        2522         &        1166         \\
+\hline\hline
+\multicolumn{4}{l}{\footnotesize \textit{t} statistics in parentheses}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+}

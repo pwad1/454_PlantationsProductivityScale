@@ -1,0 +1,1440 @@
+1                                                                                    
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                SOUTHERN FARMS STUDY, 1860                           
+                                                                                     
+                                                                                     
+                                       (ICPSR 7419)                                  
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                  Principal Investigator                             
+                                                                                     
+                                    William N. Parker                                
+                                     Yale University                                 
+                                                                                     
+                                    Robert E. Gallman                                
+                               University of North Carolina                          
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                   First ICPSR Edition                               
+                                       August 1976                                   
+                                                                                     
+                                                                                     
+                                                                                     
+                             Inter-university Consortium for                         
+                              Political and Social Research                          
+                                      P.O. Box 1248                                  
+                                Ann Arbor, Michigan 48106                            
+                                                                                     
+                                                                                     
+                                                                                     
+                [Hard copy documentation transformed into machine-readable           
+               text utilizing Optical Character Recognition (OCR) Scanning,          
+                                       April 1991]                                   
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                  BIBLIOGRAPHIC CITATION                             
+                                                                                     
+                                                                                     
+              Publications   based  on  ICPSR   data   collections    should         
+              acknowledge those sources by means of bibliographic citations.         
+              To ensure that  such  source  attributions  are  captured  for         
+              social science  bibliographic utilities, citations must appear         
+              in footnotes or in the reference section of publications.  The         
+              bibliographic citation for this data collection is:                    
+                                                                                     
+                                                                                     
+                    Parker, William  N.,  and  Robert   E.    Gallman.               
+                    SOUTHERN   FARMS  STUDY,  1860  [Computer   file].               
+                    Compiled by William N.  Parker,  Yale  University,               
+                    and   Robert  E.   Gallman,  University  of  North               
+                    Carolina.    ICPSR    ed.     Ann    Arbor,    MI:               
+                    Inter-university   Consortium  for  Political  and               
+                    Social Research [producer and distributor],  1976.               
+                                                                                     
+                                                                                     
+                                                                                     
+                    REQUEST FOR INFORMATION ON USE OF ICPSR RESOURCES                
+                                                                                     
+              To provide  funding  agencies with essential information about         
+              use of archival resources and to facilitate  the  exchange  of         
+              information about  ICPSR  participants'  research  activities,         
+              users of  ICPSR  data  are  requested   to   send   to   ICPSR         
+              bibliographic  citations  for  each  completed  manuscript  or         
+              thesis abstract.  Please indicate in a cover letter which data         
+              were used.                                                             
+                                                                                     
+                                                                                     
+                                                                                     
+                                     DATA DISCLAIMER                                 
+                                                                                     
+              The original collector of the data, ICPSR,  and  the  relevant         
+              funding  agency  bear  no  responsibility  for  uses  of  this         
+              collection or for interpretations  or  inferences  based  upon         
+              such uses.                                                             
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+                                                                                     
+                                                                                     
+                                                                                     
+                                    STUDY DESCRIPTION                                
+                                                                                     
+                                                                                     
+           Information on farm production and population residing on farms in the    
+     Southern United States in 1860 is included in this dataset. The data were       
+     originally collected by William N. Parker, Yale University, and Robert E.       
+     Gallman, University of North Carolina, with the financial assistance of a grant 
+     from the National Science Foundation. ICPSR received the data from Stanley      
+     Engerman at the University of Rochester.                                        
+                                                                                     
+           The dataset contains variables recorded for 5,228 farms located in        
+     the major cotton-producing counties of the South. The farms appearing in        
+     the file were selected from the 1860 manuscript U.S. Census schedules by a      
+     sample of all farms in 405 Southern counties which each produced over 1,000     
+     bales of cotton in 1860. The sampling method employed chose a random bloc       
+     of five farms from every 280 farms in the selected counties (i.e., a five-      
+     farm bloc from very fourteenth page of the manuscript census); this resulted    
+     in a 1.67 percent sample of all farms in the major cotton-growing counties      
+     of the eleven states of the Confederacy. The sampling procedure is further      
+     described in James D. Foust, "The Yeoman Farmer and Westward Expansion of       
+     U.S. Cotton Production" (see below). [In the original sample, data for 5,229    
+     farms were collected. The data record for one farm, however, could not be       
+     read upon initial transmission of the data to the University of Rochester.      
+     The file received by ICPSR therefore contains information for only 5,228 farms.]
+                                                                                     
+          In compiling the data collection, the principal investigators collated     
+     information on each farm selected in the sample from three schedules of the     
+     1860 census: data on the free population residing on each farm from Schedule    
+     No. 1; slave population data from Schedule No. 2; and agricultural production   
+     data from Schedule No. 4. Variables recording information from these three      
+     sources appear in standard locations for each farm in the present dataset. The  
+     following pages describe the variables contained in the dataset.                
+                                                                                     
+          The dataset contains 236 variables for each of the 5,228 farms drawn by    
+     the sample. The first three variables identify and describe the county in which 
+     each farm is located. Variable 4 cites the page and line in the manuscript      
+     agricultural Schedule (No. 4) from which a portion of the data for each farm    
+     was collected. Forty-eight variables recording assets, land, inventories, and   
+     commodity production on each farm are presented next, followed by a "check      
+     total" (variable 54) which is the numeric sum of the previous 53 variables. The 
+     remaining 182 variables record the population residing on the farm, and are     
+     presented for detailed categories of age, race, sex and "status" (free or       
+     slave). Variable 235, total population residing on the farm, represents the sum 
+     of the prior population categories. Variable 236 is a sequential number given   
+     to each farm for identification purposes.                                       
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+                                                                                     
+                                                                                     
+                                                                                     
+                                  PROCESSING INFORMATION                             
+                                                                                     
+                                                                                     
+           In addition to the preparation of this documentation for the data file,   
+     ICPSR performed computer-assisted editing of the entire data file. This         
+     operation checked the data variables for invalid (i.e. alpha-numeric)           
+     characters, converted leading blanks in the data fields to leading zeros, and   
+     performed the contingency check indicated by the nature of variables 54 and 235 
+     (see the descriptions for those variables below). No invalid characters or      
+     anomalous conditions were discovered by these procedures and, except for the    
+     "padding" of leading zeros in the data fields, the file is in essentially the   
+     same format as received by ICPSR from the University of Rochester. The only     
+     addition to this original data file is variable 236, a identification number    
+     given to each farm.                                                             
+                                                                                     
+                                                                                     
+                                                                                     
+                                   RELATED PUBLICATIONS                              
+                                                                                     
+                                                                                     
+          James D. Foust, "The Yeoman Farmer and Westward Expansion of U.S.          
+          Cotton Production," PhD dissertation, University of North Carolina         
+          at Chapel Hill (1968).                                                     
+                                                                                     
+          Robert W. Fogel and Stanley Engerman, TIME ON THE CROSS: THE ECONOMICS     
+          OF AMERICAN NEGRO SLAVERY [Volume 1] and Evidence and Methods -            
+          A Supplement [Volume 2] (Boston: Little, Brown and Company, 1974).         
+                                                                                     
+          Gavin Wright, "The Economics of Cotton in The Antebellum South",           
+          Yale University, Doctoral Dissertation 1969.                               
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     ICPSR 7419                                                             Page    1
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+        1             County Code Number                                             
+                                                                                     
+                      ALABAMA                                                        
+                                                                                     
+                           CODE VALUE   COUNTY          CODE VALUE  COUNTY           
+                                                                                     
+                           000000001    Autauga         000000026   Lauderdale       
+                                    3   Barbour                27   Limestone        
+                                    4   Bibb                   28   Lowndes          
+                                    5   Blount                 29   Madison          
+                                    6   Butler                 30   Marengo          
+                                    7   Calhoun                31   Marion           
+                                    8   Chambers               32   Marshall         
+                                    9   Cherokee               33   Macon            
+                                  10    Choctaw                34   Montgomery       
+                                  11    Clarke                 35   Monroe           
+                                  12    Coffee                 36   Morgan           
+                                  13    Conecuh                37   Perry            
+                                  14    Coosa                  38   Pickens          
+                                  15    Covington              39   Pike             
+                                  16    Dale                   40   Randolph         
+                                  17    Dallas                 41   Russell          
+                                  18    DeKalb                 42   Shelby           
+                                  19    Fayette                43   St. Clair        
+                                  20    Franklin               44   Sumter           
+                                  21    Greene                 45   Tallapoosa       
+                                  22    Henry                  46   Talladega        
+                                  23    Jackson                47   Tuscaloosa       
+                                  24    Jefferson              48   Walker           
+                                  25    Lawrence               49   Washington       
+                                                               50   Wilcox           
+                                                                                     
+                     ARKANSAS                                                        
+                                                                                     
+                           CODE VALUE   COUNTY          CODE VALUE  COUNTY           
+                                                                                     
+                           000000060    Arkansas        000000071   Drew             
+                                  61    Ashley                 72   Franklin         
+                                  62    Bradley                73   Hempstead        
+                                  63    Calhoun                74   Hot Spring       
+                                  65    Clark                  75   Independence     
+                                  66    Columbia               76   Jefferson        
+                                  67    Conway                 77   Johnson          
+                                  68    Crittenden             79   Lafayette        
+                                  69    Dallas                 80   Marion           
+                                  70    Desha                  81   Mississippi      
+                                  82    Monroe                 90   Saline           
+                                  84    Perry                  91    St. Francis     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     Page    2                                                             ICPSR 7419
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+                     ARKANSAS (continued)                                            
+                                                                                     
+                           CODE VALUE   COUNTY          CODE VALUE   COUNTY          
+                                                                                     
+                                  85    Phillips               92    Sevier          
+                                  86    Poinsett               93    Union           
+                                  87    Pope                   94    White           
+                                  88    Prairie                95    Yell            
+                                  89    Pulaski                                      
+                     FLORIDA                                                         
+                                                                                     
+                           CODE VALUE   COUNTY          CODE VALUE   COUNTY          
+                                                                                     
+                           000000120    Alachua         000000125    Jefferson       
+                                 121    Columbia              126    Leon            
+                                 122    Gadsend               127    Madison         
+                                 123    Hamilton              128    Marion          
+                                 124    Jackson                                      
+                                                                                     
+                     GEORGIA                                                         
+                                                                                     
+                           CODE VALUE   COUNTY          CODE VALUE   COUNTY          
+                                                                                     
+                           000000200    Baker           000000226    Emanuel         
+                                 201    Baldwin               227    Fayette         
+                                 202    Bibb                  228    Floyd           
+                                 204    Bullock               229    Glascock        
+                                 205    Burke                 230    Greene          
+                                 206    Butts                 231    Gwinnett        
+                                 207    Calhoun               232    Hancock         
+                                 208    Campbell              233    Hart            
+                                 209    Carroll               234    Harris          
+                                 210    Cass                  235    Heard           
+                                 211    Chattachoochee        236    Henry           
+                                 212    Chattooga             237    Houston         
+                                 213    Clarke                238    Jackson         
+                                 214    Clay                  239    Jasper          
+                                 215    Clayton               240    Jefferson       
+                                 216    Cobb                  241    Johnson         
+                                 217    Columbia              243    Laurens         
+                                 218    Coweta                244    Lee             
+                                 219    Crawford              245    Liberty         
+                                 220    Decatur               246    Lincoln         
+                                 221    DeKalb                247    Lowndes         
+                                 222    Dooly                 248    Macon           
+                                 225    Elbert                249    Madison         
+                                                              250    Marion          
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     ICPSR 7419                                                             Page    3
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+                     GEORGIA (continued)                                             
+                                                                                     
+                           CODE VALUE   COUNTY          CODE VALUE   COUNTY          
+                                                                                     
+                            000000251   Meriwether       000000268  Spalding         
+                                  253   Monroe                269   Stewart          
+                                  254   Morgan                270   Sumter           
+                                  255   Muscogee              271   Talbot           
+                                  256   Newton                272   Taliaferro       
+                                  257   Oglethorpe            273   Taylor           
+                                  258   Paulding              274   Terrell          
+                                  259   Pike                  275   Thomas           
+                                  260   Polk                  276   Troup            
+                                  261   Pulaski               277   Twiggs           
+                                  262   Putnam                278   Upson            
+                                  263   Quitman               279   Walton           
+                                  264   Randolph              280   Warren           
+                                  265   Richmond              281   Washington       
+                                  266   Schley                282   Webster          
+                                  267   Screven               283   Wilkes           
+                                                              284   Wilkinson        
+                                                              285   Worth            
+                                                                                     
+                     LOUISIANA                                                       
+                                                                                     
+                           CODE VALUE   COUNTY         CODE VALUE   COUNTY           
+                                                                                     
+                            000000300   Avoyelles       000000317   Madison          
+                                  301   Baton Rouge-East      318   Morehouse        
+                                  303   Bossier               319   Natchitoches     
+                                  306   Carroll               320   Quichita         
+                                  307   Catahoula             322   Rapides          
+                                  308   Claibourne            323   Sabine           
+                                  309   Concordia             324   St. Helena       
+                                  310   DeSoto                325   St. Landry       
+                                  311   Feliciania-East       326   St. Martin's     
+                                  312   Feliciania-West       327   Tensas           
+                                  313   Franklin              328   Union            
+                                  314   Jackson               330   Washington       
+                                  315   Lafayette             331   Winn             
+                                  316   Livingston                                   
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     Page    4                                                             ICPSR 7419
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                            DESCRIPTION                                   
+                                                                                     
+     1 (cont'd)       County Code Number                                             
+                                                                                     
+                       MISSISSIPPI                                                   
+                                                                                     
+                           CODE VALUE   COUNTY         CODE VALUE    COUNTY          
+                                                                                     
+                            000000350   Adams           000000379    Marion          
+                                  351   Amite                 380    Marshall        
+                                  352   Attala                381    Monroe          
+                                  353   Bolivar               382    Neshoba         
+                                  354   Calhoun               383    Newton          
+                                  355   Carroll               384    Noxubee         
+                                  356   Chickasaw             385    Oktibbeba       
+                                  357   Choctaw               386    Panola          
+                                  358   Claiborne             387    Pike            
+                                  359   Clarke                388    Pontotoc        
+                                  361   Copiah                389    Rankin          
+                                  362   Covington             390    Scott           
+                                  363   DeSoto                391    Simpson         
+                                  364   Franklin              392    Smith           
+                                  366   Hinds                 393    Tallahatchie    
+                                  367   Holmes                394    Tippah          
+                                  369   Itawamba              395    Tishomingo      
+                                  370   Jasper                397    Warren          
+                                  371   Jefferson             398    Wayne           
+                                  372   Kemper                399    Wilkinson       
+                                  373   Lafayette             400    Winston         
+                                  374   Lauderdale            402    Yazoo           
+                                  375   Lawrence                                     
+                                  376   Leake                                        
+                                  377   Lowndes                                      
+                                  378   Madison                                      
+                                                                                     
+                      NORTH CAROLINA                                                 
+                                                                                     
+                            CODE VALUE  COUNTY          CODE VALUE   COUNTY          
+                                                                                     
+                             000000420  Anson            000000433   Mecklenburg     
+                                  422   Cabarrus              435    Nash            
+                                  423   Duplin                436    Northampton     
+                                  424   Edgecombe             437    Pitt            
+                                  425   Franklin              438    Richmond        
+                                  426   Greene                439    Robeson         
+                                  427   Halifax               440    Rowan           
+                                  428   Hertford              441    Surry           
+                                  429   Johnston              442    Union           
+                                  430   Jones                 443    Wake            
+                                  431   Lenoir                444    Wayne           
+                                  432   Martin                445    Wilson          
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     ICPSR 7419                                                             Page    5
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+     1 (cont'd)        County Code Number                                            
+                                                                                     
+                       SOUTH CAROLINA                                                
+                                                                                     
+                            CODE VALUE    COUNTY           CODE VALUE   COUNTY       
+                                                                                     
+                            000000510     Abbeville        000000524    Lancaster    
+                                   511    Anderson               525    Laurens      
+                                   512    Barnwell               526    Lexington    
+                                   513    Beaufort               527    Marion       
+                                   514    Charleston             528    Marlboro     
+                                   515    Chester                529    Newberry     
+                                   516    Chesterfield           530    Orangeburg   
+                                   517    Clarendon              531    Richland     
+                                   518    Colleton               532    Spartanburg  
+                                   519    Darlington             533    Sumter       
+                                   520    Edgefield              534    Union        
+                                   521    Fairfield              535    Williamsburg 
+                                   522    Greenville             536    York         
+                                   523    Kershaw                                    
+                                                                                     
+                      TENNESSEE                                                      
+                                                                                     
+                            CODE VALUE    COUNTY           CODE VALUE   COUNTY       
+                                                                                     
+                            000000600     Carroll          000000610    Macon        
+                                   601    Fayette                611    McNairy      
+                                   602    Gibson                 612    Madison      
+                                   603    Giles                  613    Maury        
+                                   604    Hardeman               614    Monroe       
+                                   605    Haywood                615    Rutherford   
+                                   606    Henderson              616    Shelby       
+                                   607    Lauderdale             617    Tipton       
+                                   608    Lawrence               618    Williamson   
+                                   609    Lincoln                                    
+                                                                                     
+                       TEXAS                                                         
+                                                                                     
+                            CODE VALUE    COUNTY           CODE VALUE   COUNTY       
+                                                                                     
+                            000000700     Anderson         000000711    Colorado     
+                                   701    Angelina               712    Comal        
+                                   702    Austin                 713    DeWitt       
+                                   703    Bastrop                714    Falls        
+                                   704    Bowie                  715    Fannin       
+                                   705    Brazoria               716    Fayette      
+                                   707    Burleson               717    Fort Bend    
+                                   708    Caldwell               718    Freestone    
+                                   709    Cass                   719    Goliad       
+                                   710    Cherokee               720    Gonzales     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     Page    6                                                             ICPSR 7419
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+      1 (cont'd)      County Code                                                    
+                                                                                     
+                      TEXAS (continued)                                              
+                                                                                     
+                           CODE VALUE   COUNTY         CODE VALUE   COUNTY           
+                                                                                     
+                            000000721   Grimes          000000740   Nacogdoches      
+                                  722   Guadalupe             741   Navarro          
+                                  723   Harrison              742   Newton           
+                                  724   Hays                  743   Panola           
+                                  725   Henderson             744   Polk             
+                                  726   Houston               745   Red River        
+                                  727   Liberty               746   Robertson        
+                                  728   Jasper                747   Rusk             
+                                  729   Lamar                 748   Sabine           
+                                  730   Lavaca                749   San Augustine    
+                                  731   Leon                  750   Shelby           
+                                  732   Limstone              751   Smith            
+                                  734   Madison               752   Titus            
+                                  736   Matagorda             753   Travis           
+                                  737   McLennan              754   Trinity          
+                                  738   Milam                 755   Tyler            
+                                  739   Montgomery            756   Upshur           
+                                                              757   Victoria         
+                                                              758   Walker           
+                                                              759   Washington       
+                                                              760   Wharton          
+                                                              761   Wood             
+                                                                                     
+                     VIRGINIA                                                        
+                                                                                     
+                          CODE VALUE COUNTY            CODE VALUE COUNTY             
+                                                                                     
+                           000000800    Essex           000000803   Southampton      
+                                  801   Greensville           804   Sussex           
+                                  802   Prince George                                
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     ICPSR 7419                                                             Page    7
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+        2         Code of soil type in the county                                    
+                                                                                     
+                       CODE  DESCRIPTION                                             
+                                                                                     
+                       01    Granite and metamorphic gray and                        
+                             red lands                               TIMBERED        
+                                                                                     
+                       02    Highland rim of central basin                           
+                             of Tennessee                            TIMBERED        
+                                                                                     
+                       03    Siliceous and mountain lands,                           
+                             Tennessee, N. Alabama, N. Arkansas      TIMBERED        
+                                                                                     
+                       04    Sand hills belt of middle North Carolina                
+                             South Carolina, Georgia, Alabama        TIMBERED        
+                                                                                     
+                       05    Gray silt prairies, Arkansas,                           
+                             Louisiana, Texas                        PRAIRIE         
+                                                                                     
+                       06    Sand desert, Southwest Texas            PRAIRIE         
+                                                                                     
+                       07    Red clay lands, middle Tennessee        TIMBERED        
+                                                                                     
+                       08    Valley lands of East Tennessee,                         
+                             Georgia, Alabama, with narrow cherty                    
+                             ridges                                  TIMBERED        
+                                                                                     
+                       09    Redloam and clay prairie country,                       
+                             Arkansas, Missouri, Texas               PARTY TIMBERED  
+                                                                                     
+                       10    Pontotoc ridge redlands (cretaceous),                   
+                             Mississippi                             TIMBERED        
+                                                                                     
+                       11    Red hills (tertiary), South Carolina    TIMBERED        
+                                                                                     
+                       12    Central basin limestone lands,                          
+                             Tennessee                               TIMBERED        
+                                                                                     
+                       13    Red loam region, Arkansas               TIMBERED        
+                                                                                     
+                       14    Flatwoods, Alabama, Mississippi,                        
+                             Tennessee                               TIMBERED        
+                                                                                     
+                       15    Gypsum prairies and arid plains                         
+                             of Ilano estacado of Texas              PRAIRIE         
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     Page    8                                                             ICPSR 7419
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                             DESCRIPTION                                  
+                                                                                     
+      2 (cont'd)   Code of soil type in the county                                   
+                                                                                     
+                        CODE  DESCRIPTION                                            
+                                                                                     
+                        16    Oak, hickory, and short leaf pine                      
+                              uplands, Mississippi, Tennessee,                       
+                              Arkansas, Texas, Louisiana             TIMBERED        
+                                                                                     
+                        17    Black and stiff calcareous (cretaceous)                
+                              prairies, Alabama, Mississippi,                        
+                              Arkansas, Texas                        PRAIRIE         
+                                                                                     
+                        18    Calcareous prairielands (tertiary),                    
+                              Alabama, Mississippi, Louisiana, Texas PARTY TIMBERED  
+                                                                                     
+                        19    Black calcareous and coast prairies,                   
+                              Texas, Louisiana                       PRAIRIE         
+                                                                                     
+                        20    Brown loam bluff  and table lands,                     
+                              Tennessee, Mississippi                 TIMBERED        
+                                                                                     
+                        21    Brown loam prairies of Louisiana       PRAIRIE         
+                                                                                     
+                        22    Sandy prairies of Indian Territory     PRAIRIE         
+                                                                                     
+                        23    Central belt oak, hickory and longleaf                 
+                              pine hills, North Carolina to                          
+                              Louisiana                              TIMBERED        
+                                                                                     
+                        24    Long leaf pine hills, Alabama, Florida,                
+                              Georgia, North Carolina, Texas to                      
+                              Mississippi and level wire grass and                   
+                              pine barrens                           TIMBERED        
+                                                                                     
+                        25    Gray, gravelly ridges and magnesian                    
+                              limestone lands, Arkansas, Tennessee,                  
+                              Northwest Georgia                      TIMBERED        
+                                                                                     
+                        26    Long leaf pine flats and savannahs                     
+                              near the coast from Virginia to                        
+                              Texas                                  TIMBERED        
+                                                                                     
+                        27    Alluvial lands and large upland                        
+                              swamps                                 TIMBERED        
+                                                                                     
+                        28    Marshes, swamps and live oak lands                     
+                              of the coast                           PARTY TIMBERED  
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     ICPSR 7419                                                             Page    9
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                                     DESCRIPTION                          
+                                                                                     
+     3                   Number of farms sampled in the county                       
+                                                                                     
+     4                   Cotton production in the county, 1860                       
+                         (in hundreds of bales)                                      
+                                                                                     
+     5                   Page-line code in the manuscript census                     
+                                                                                     
+     6                   Value of personal property                                  
+                                                                                     
+     7                   Acres of improved land                                      
+                                                                                     
+     8                   Acres of unimproved land                                    
+                                                                                     
+     9                   Dollar valuation of farm                                    
+                                                                                     
+     10                  Dollar valuation of farm machinery                          
+                                                                                     
+     11                  Head of horses                                              
+                                                                                     
+     12                  Head of asses and mules                                     
+                                                                                     
+     13                  Head of milk cows                                           
+                                                                                     
+     14                  Head of working oxen                                        
+                                                                                     
+     15                  Head of other cattle                                        
+                                                                                     
+     16                  Head of sheep                                               
+                                                                                     
+     17                  Head of swine                                               
+                                                                                     
+     18                  Dollar value of livestock                                   
+                                                                                     
+     19                  Number of bushels of wheat                                  
+                                                                                     
+     20                  Number of bushels of rye                                    
+                                                                                     
+     21                  Number of bushels of corn                                   
+                                                                                     
+     22                  Number of bushels of oats                                   
+                                                                                     
+     23                  Number of bushels of rice                                   
+                                                                                     
+     24                  Number of pounds of tobacco                                 
+                                                                                     
+     25                  Number of bales of cotton                                   
+                                                                                     
+     26                  Number of pounds of wool                                    
+                                                                                     
+     27                  Number of bushels of peas and beans                         
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     Page   10                                                             ICPSR 7419
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+     28                  Number of bushels of Irish potatoes                         
+                                                                                     
+     29                  Number of bushels of sweet potatoes                         
+                                                                                     
+     30                  Number of bushels of barley                                 
+                                                                                     
+     31                  Number of bushels of buckwheat                              
+                                                                                     
+     32                  Dollar value of orchard products                            
+                                                                                     
+     33                  Number of gallons of wine                                   
+                                                                                     
+     34                  Dollar value of market garden products                      
+                                                                                     
+     35                  Number of pounds of butter                                  
+                                                                                     
+     36                  Number of pounds of cheese                                  
+                                                                                     
+     37                  Number of tons of hay and fodder                            
+                                                                                     
+     38                  Number of bushels of clover seed                            
+                                                                                     
+     39                  Number of bushels of grass seed                             
+                                                                                     
+     40                  Number of pounds of hops                                    
+                                                                                     
+     41                  Number of tons of dew rotted hemp                           
+                                                                                     
+     42                  Number of tons of water rotted hemp                         
+                                                                                     
+     43                  Number of tons of other hemp                                
+                                                                                     
+     44                  Number of pounds of flax                                    
+                                                                                     
+     45                  Number of bushels of flaxseed                               
+                                                                                     
+     46                  Number of pounds of silk cocoons                            
+                                                                                     
+     47                  Number of pounds of maple sugar                             
+                                                                                     
+     48                  Number of pounds of cane sugar (in 1000's)                  
+                                                                                     
+     49                  Number of gallons of molasses                               
+                                                                                     
+     50                  Number of pounds of beeswax                                 
+                                                                                     
+     51                  Number of pounds of honey                                   
+                                                                                     
+     52                  Dollar value of home manufactures                           
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     ICPSR 7419                                                             Page   11
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+     53                  Dollar value of animals slaughtered                         
+                                                                                     
+     54                  Check Total                                                 
+                         This variable is the numeric sum of variables               
+                         1-53                                                        
+                                                                                     
+     55                  Number of free males less than 6 months of age              
+                                                                                     
+     56                  Number of free males 1-4 years of age                       
+                                                                                     
+     57                  Number of free males 5-9 years of age                       
+                                                                                     
+     58                  Number of free males 10-14 years of age                     
+                                                                                     
+     59                  Number of free males 15-19 years of age                     
+                                                                                     
+     60                  Number of free males 20-24 years of age                     
+                                                                                     
+     61                  Number of free males 25-29 years of age                     
+                                                                                     
+     62                  Number of free males 30-34 years of age                     
+                                                                                     
+     63                  Number of free males 35-39 years of age                     
+                                                                                     
+     64                  Number of free males 40-44 years of age                     
+                                                                                     
+     65                  Number of free males 45-49 years of age                     
+                                                                                     
+     66                  Number of free males 50-54 years of age                     
+                                                                                     
+     67                  Number of free males 55-59 years of age                     
+                                                                                     
+     68                  Number of free males 60-64 years of age                     
+                                                                                     
+     69                  Number of free males 65-69 years of age                     
+                                                                                     
+     70                  Number of free males 70-79 years of age                     
+                                                                                     
+     71                  Number of free males 80-89 years of age                     
+                                                                                     
+     72                  Number of free males 90 years of age and over               
+                                                                                     
+     73                  Number of free females less than 6 months of age            
+                                                                                     
+     74                  Number of free females 1-4 years of age                     
+                                                                                     
+     75                  Number of free females 5-9 years of age                     
+                                                                                     
+     76                  Number of free females 10-14 years of age                   
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     Page   12                                                             ICPSR 7419
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+     77                  Number of free females 15-19 years of age                   
+                                                                                     
+     78                  Number of free females 20-24 years of age                   
+                                                                                     
+     79                  Number of free females 25-29 years of age                   
+                                                                                     
+     80                  Number of free females 30-34 years of age                   
+                                                                                     
+     81                  Number of free females 35-39 years of age                   
+                                                                                     
+     82                  Number of free females 40-44 years of age                   
+                                                                                     
+     83                  Number of free females 45-49 years of age                   
+                                                                                     
+     84                  Number of free females 50-54 years of age                   
+                                                                                     
+     85                  Number of free females 55-59 years of age                   
+                                                                                     
+     86                  Number of free females 60-64 years of age                   
+                                                                                     
+     87                  Number of free females 65-69 years of age                   
+                                                                                     
+     88                  Number of free females 70-79 years of age                   
+                                                                                     
+     89                  Number of free females 80-89 years of age                   
+                                                                                     
+     90                  Number of free females 90 years of age and over             
+                                                                                     
+     91                  Number of male slaves less than 6 months of age             
+                                                                                     
+     92                  Number of male slaves 1-4 years of age                      
+                                                                                     
+     93                  Number of male slaves 5-9 years of age                      
+                                                                                     
+     94                  Number of male slaves 10-14 years of age                    
+                                                                                     
+     95                  Number of male slaves 15-19 years of age                    
+                                                                                     
+     96                  Number of male slaves 20-24 years of age                    
+                                                                                     
+     97                  Number of male slaves 25-29 years of age                    
+                                                                                     
+     98                  Number of male slaves 30-34 years of age                    
+                                                                                     
+     99                  Number of male slaves 35-39 years of age                    
+                                                                                     
+     100                 Number of male slaves 40-44 years of age                    
+                                                                                     
+     101                 Number of male slaves 45-49 years of age                    
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     ICPSR 7419                                                             Page   13
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+     102                 Number of male slaves 50-54 years of age                    
+                                                                                     
+     103                 Number of male slaves 55-59 years of age                    
+                                                                                     
+     104                 Number of male slaves 60-64 years of age                    
+                                                                                     
+     105                 Number of male slaves 65-69 years of age                    
+                                                                                     
+     106                 Number of male slaves 70-79 years of age                    
+                                                                                     
+     107                 Number of male slaves 80-89 years of age                    
+                                                                                     
+     108                 Number of male slaves 90 years of age and over              
+                                                                                     
+     109                 Number of female slaves less than 6 months of age           
+                                                                                     
+     110                 Number of female slaves 1-4 years of age                    
+                                                                                     
+     111                 Number of female slaves 5-9 years of age                    
+                                                                                     
+     112                 Number of female slaves 10-14 years of age                  
+                                                                                     
+     113                 Number of female slaves 15-19 years of age                  
+                                                                                     
+     114                 Number of female slaves 20-24 years of age                  
+                                                                                     
+     115                 Number of female slaves 25-29 years of age                  
+                                                                                     
+     116                 Number of female slaves 30-34 years of age                  
+                                                                                     
+     117                 Number of female slaves 35-39 years of age                  
+                                                                                     
+     118                 Number of female slaves 40-44 years of age                  
+                                                                                     
+     119                 Number of female slaves 45-49 years of age                  
+                                                                                     
+     120                 Number of female slaves 50-54 years of age                  
+                                                                                     
+     121                 Number of female slaves 55-59 years of age                  
+                                                                                     
+     122                 Number of female slaves 60-64 years of age                  
+                                                                                     
+     123                 Number of female slaves 65-69 years of age                  
+                                                                                     
+     124                 Number of female slaves 70-79 years of age                  
+                                                                                     
+     125                 Number of female slaves 80-89 years of age                  
+                                                                                     
+     126                 Number of female slaves 90 years of age and over            
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     Page   14                                                             ICPSR 7419
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+     127                 Number of Wale farm laborers less than                      
+                         6 months of age                                             
+                                                                                     
+     128                 Number of male farm laborers 1-4 years of age               
+                                                                                     
+     129                 Number of male farm laborers 5-9 years of age               
+                                                                                     
+     130                 Number of male farm laborers 10-14 years of age             
+                                                                                     
+     131                 Number of male farm laborers 15-19 years of age             
+                                                                                     
+     132                 Number of male farm laborers 20-24 years of age             
+                                                                                     
+     133                 Number of male farm laborers 25-29 years of age             
+                                                                                     
+     134                 Number of male farm laborers 30-34 years of age             
+                                                                                     
+     135                 Number of male farm laborers 35-39 years of age             
+                                                                                     
+     136                 Number of male farm laborers 40-44 years of age             
+                                                                                     
+     137                 Number of male farm laborers 45-49 years of age             
+                                                                                     
+     138                 Number of male farm laborers 50-54 years of age             
+                                                                                     
+     139                 Number of male farm laborers 55-59 years of age             
+                                                                                     
+     140                 Number of male farm laborers 60-64 years of age             
+                                                                                     
+     141                 Number of male farm laborers 65-69 years of age             
+                                                                                     
+     142                 Number of male farm laborers 70-79 years of age             
+                                                                                     
+     143                 Number of male farm laborers 80-89 years of age             
+                                                                                     
+     144                 Number of male farm laborers 90 years of                    
+                         age and over                                                
+                                                                                     
+     145                 Number of female farm laborers less than                    
+                         6 months of age                                             
+                                                                                     
+     146                 Number of female farm laborers 1-4 years of age             
+                                                                                     
+     147                 Number of female farm laborers 5-9 years of age             
+                                                                                     
+     148                 Number of female farm laborers 10-14 years of age           
+                                                                                     
+     149                 Number of female farm laborers 15-19 years of age           
+                                                                                     
+     150                 Number of female farm laborers 20-24 years of age           
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     ICPSR 7419                                                             Page   15
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+     151                 Number of female farm laborers 25-29 years of age           
+                                                                                     
+     152                 Number of female farm laborers 30-34 years of age           
+                                                                                     
+     153                 Number of female farm laborers 35-39 years of age           
+                                                                                     
+     154                 Number of female farm laborers 40-44 years of age           
+                                                                                     
+     155                 Number of female farm laborers 45-49 years of age           
+                                                                                     
+     156                 Number of female farm laborers 50-54 years of age           
+                                                                                     
+     157                 Number of female farm laborers 55-59 years of age           
+                                                                                     
+     158                 Number of female farm laborers 60-64 years of age           
+                                                                                     
+     159                 Number of female farm laborers 65-69 years of age           
+                                                                                     
+     160                 Number of female farm laborers 70-79 years of age           
+                                                                                     
+     161                 Number of female farm laborers 80-89 years of age           
+                                                                                     
+     162                 Number of female farm laborers 90 years of age              
+                         and over                                                    
+                                                                                     
+     163                 Number of male overseers less than 6 months of age          
+                                                                                     
+     164                 Number of male overseers 1-4 years of age                   
+                                                                                     
+     165                 Number of male overseers 5-9 years of age                   
+                                                                                     
+     166                 Number of male overseers 10-14 years of age                 
+                                                                                     
+     167                 Number of male overseers 15-19 years of age                 
+                                                                                     
+     168                 Number of male overseers 20-24 years of age                 
+                                                                                     
+     169                 Number of male overseers 25-29 years of age                 
+                                                                                     
+     170                 Number of male overseers 30-34 years of age                 
+                                                                                     
+     171                 Number of male overseers 35-39 years of age                 
+                                                                                     
+     172                 Number of male overseers 40-44 years of age                 
+                                                                                     
+     173                 Number of male overseers 45-49 years of age                 
+                                                                                     
+     174                 Number of male overseers 50-54 years of age                 
+                                                                                     
+     175                 Number of male overseers 55-59 years of age                 
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     Page   16                                                             ICPSR 7419
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+     176                 Number of male overseers 60-64 years of age                 
+                                                                                     
+     177                 Number of male overseers 65-69 years of age                 
+                                                                                     
+     178                 Number of male overseers 70-79 years of age                 
+                                                                                     
+     179                 Number of male overseers 80-89 years of age                 
+                                                                                     
+     180                 Number of male overseers 90 years of age and over           
+                                                                                     
+     181                 Number of female overseers less than 6 months               
+                         of age                                                      
+                                                                                     
+     182                 Number of female overseers 1-4 years of age                 
+                                                                                     
+     183                 Number of female overseers 5-9 years of age                 
+                                                                                     
+     184                 Number of female overseers 10-14 years of age               
+                                                                                     
+     185                 Number of female overseers 15-19 years of age               
+                                                                                     
+     186                 Number of female overseers 20-24 years of age               
+                                                                                     
+     187                 Number of female overseers 25-29 years of age               
+                                                                                     
+     188                 Number of female overseers 30-34 years of age               
+                                                                                     
+     189                 Number of female overseers 35-39 years of age               
+                                                                                     
+     190                 Number of female overseers 40-44 years of age               
+                                                                                     
+     191                 Number of female overseers 45-49 years of age               
+                                                                                     
+     192                 Number of female overseers 50-54 years of age               
+                                                                                     
+     193                 Number of female overseers 55-59 years of age               
+                                                                                     
+     194                 Number of female overseers 60-64 years of age               
+                                                                                     
+     195                 Number of female overseers 65-69 years of age               
+                                                                                     
+     196                 Number of female overseers 70-79 years of age               
+                                                                                     
+     197                 Number of female overseers 80-89 years of age               
+                                                                                     
+     198                 Number of female overseers 90 years of age and over         
+                                                                                     
+     199                 Number of male non-farm workers less than 6                 
+                         months of  age                                              
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     ICPSR 7419                                                             Page   17
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+     200                 Number of male non-farm workers 1-4 years of age            
+                                                                                     
+     201                 Number of male non-farm workers 5-9 years of age            
+                                                                                     
+     202                 Number of male non-farm workers 10-14 years of age          
+                                                                                     
+     203                 Number of male non-farm workers 15-19 years of age          
+                                                                                     
+     204                 Number of male non-farm workers 20-24 years of age          
+                                                                                     
+     205                 Number of male non-farm workers 25-29 years of age          
+                                                                                     
+     206                 Number of male non-farm workers 30-34 years of age          
+                                                                                     
+     207                 Number of male non-farm workers 35-39 years of age          
+                                                                                     
+     208                 Number of male non-farm workers 40-44 years of age          
+                                                                                     
+     209                 Number of male non-farm workers 45-49 years of age          
+                                                                                     
+     210                 Number of male non-farm workers 50-54 years of age          
+                                                                                     
+     211                 Number of male non-farm workers 55-59 years of age          
+                                                                                     
+     212                 Number of male non-farm workers 60-64 years of age          
+                                                                                     
+     213                 Number of male non-farm workers 65-69 years of age          
+                                                                                     
+     214                 Number of male non-farm workers 70-79 years of age          
+                                                                                     
+     215                 Number of male non-farm workers 80-89 years of age          
+                                                                                     
+     216                 Number of male non-farm workers 90 years of age             
+                         and over                                                    
+                                                                                     
+     217                 Number of female non-farm workers less than                 
+                         6 months of age                                             
+                                                                                     
+     218                 Number of female non-farm workers 1-4 years of age          
+                                                                                     
+     219                 Number of female non-farm workers 5-9 years of age          
+                                                                                     
+     220                 Number of female non-farm workers 10-14 years of age        
+                                                                                     
+     221                 Number of female non-farm workers 15-19 years of age        
+                                                                                     
+     222                 Number of female non-farm workers 20-24 years of age        
+                                                                                     
+     223                 Number of female non-farm workers 25-29 years of age        
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+1                                                                                    
+     Page   18                                                             ICPSR 7419
+                                                                                     
+                                                                                     
+     VARIABLE                                                                        
+     NUMBER                           DESCRIPTION                                    
+                                                                                     
+     224                 Number of female non-farm workers 30-34 years of age        
+                                                                                     
+     225                 Number of female non-farm workers 35-39 years of age        
+                                                                                     
+     226                 Number of female non-farm workers 40-44 years of age        
+                                                                                     
+     227                 Number of female non-farm workers 45-49 years of age        
+                                                                                     
+     228                 Number of female non-farm workers 50-54 years of age        
+                                                                                     
+     229                 Number of female non-farm workers 55-59 years of age        
+                                                                                     
+     230                 Number of female non-farm workers 60-64 years of age        
+                                                                                     
+     231                 Number of female non-farm workers 65-69 years of age        
+                                                                                     
+     232                 Number of female non-farm workers 70-79 years of age        
+                                                                                     
+     233                 Number of female non-farm workers 80-89 years of age        
+                                                                                     
+     234                 Number of female non-farm workers 90 years of age           
+                         and over                                                    
+                                                                                     
+     235                 Total number of persons residing on each farm               
+                         This variable is the sum of variables 55-234                
+                                                                                     
+     236                 Farm Sequence Number                                        
+                                                                                     
+                         This is a number ranging from 0001 to 5228                  
+                         assigned sequentially to each farm.                         
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     
+                                                                                     

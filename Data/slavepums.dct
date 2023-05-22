@@ -1,0 +1,69 @@
+infix dictionary using slave1850_1.dat {
+ year       1-2
+  datanum   3
+  serial     4-8
+  slavenum  9-11
+  weight  12-13
+  reel   14-17
+  pageseq 18
+  pageno 19-22
+  line 23-25
+  statefip 26-27
+  stateicp 28-29
+  county 30-33
+  oversamp 34
+  compcnty 174
+  city 35-38
+  citypop 39-42
+  enumday 43-44
+  enummo 45-46
+  sizehold 47-50
+  numtakn 51-54
+  samptype 55
+  pgcnty 56-58
+  age 59-61
+  agemonth 62-63 
+  sex 64
+  color 65-67
+  fugitive 68
+  manumit 69
+  blind 70
+  deaf 71
+  idiotic 72
+  insane 73
+  noholdrs 74-75
+  nfugitvs 76-77
+  nmanumts 78-79
+  nhouses 80-82
+  sh1typeg 83
+  sh1typed 83-84
+  sh2typeg 85
+  sh2typed 85-86
+  sh3typeg 87
+  sh3typed 87-88
+  sh4typeg 89
+  sh4typed 89-90
+  sh5typeg 91
+  sh5typed 91-92
+  sh6typeg 93
+  sh6typed 93-94
+  sh7typeg 95
+  sh7typed 95-96
+  sh8typeg 97
+  sh8typed 97-98
+  qqc 99
+  qage 100
+  qagemon 101
+  qsex 102
+  qcolor 103
+  qowner 104
+  qhouses 105
+  qfugitiv 106
+  qmanumit 107
+  qogeog 108
+  qholdsz 109
+  str sh1ln 110-125
+  str sh1fn 126-141
+ str sh2ln 142-157
+ str sh2fn 158-173
+}
